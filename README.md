@@ -1,10 +1,10 @@
 **Retail Sales Exploratory Data Analysis (EDA)**
 
-Project Overview
+**Project Overview**
 
 This project performs Exploratory Data Analysis (EDA) on retail sales data to uncover patterns, trends, and insights that can help businesses make informed decisions. The dataset contains information on sales transactions, customer demographics, and product details.
 
-Key Objectives
+**Key Objectives**
 
 Load and clean the retail sales dataset
 
@@ -19,7 +19,7 @@ Visualize insights using bar charts, line plots, and heatmaps
 Provide actionable business recommendations
 
 
-Technologies Used
+**Technologies Used**
 
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 
@@ -28,7 +28,7 @@ Google Colab for analysis
 Data Visualization with Seaborn & Matplotlib
 
 
-Dataset Details
+**Dataset Details**
 
 Source: Retail sales dataset
 
@@ -37,7 +37,7 @@ Key Features: Date, Product Category, Sales, Profit, Quantity, Region, Customer 
 Size: Large dataset with multiple records
 
 
-Key Insights
+**Key Insights**
 
 1. Sales Trend Over Time: Sales show noticeable peaks, suggesting occasional spikes in demand.
 
@@ -55,7 +55,7 @@ Key Insights
 
 
 
-Data Visualization
+**Data Visualization**
 
 Time Series Analysis: Identifies sales trends over time.
 
@@ -69,7 +69,7 @@ Correlation Heatmap: Shows relationships between numerical variables.
 
 
 
-Business Recommendations
+**Business Recommendations**
 
 1. Run targeted promotions during peak sales periods to boost revenue.
 
@@ -84,7 +84,7 @@ Business Recommendations
 
 
 
-How to Use
+**How to Use**
 
 1. Open the Google Colab Notebook: Google Colab Link
 
@@ -99,12 +99,12 @@ How to Use
 
 
 
-Contact
+**Contact**
 
 For queries or collaboration, connect here:
 
-LinkedIn: https://www.linkedin.com/in/naitik-kanojiya-40843b30a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+LinkedIn: **https://www.linkedin.com/in/naitik-kanojiya-40843b30a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
 
-GitHub: https://github.com/Naitik582
+GitHub: **https://github.com/Naitik582**
 
-Email: mankitkr980@gmail.com
+Email: **mankitkr980@gmail.com**
