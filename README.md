@@ -6,26 +6,26 @@ This project performs Exploratory Data Analysis (EDA) on retail sales data to un
 
 **Key Objectives**
 
-Load and clean the retail sales dataset
+• Load and clean the retail sales dataset
 
-Perform descriptive statistics (mean, median, mode, standard deviation)
+• Perform descriptive statistics (mean, median, mode, standard deviation)
 
-Conduct time series analysis to identify sales trends
+• Conduct time series analysis to identify sales trends
 
-Analyze customer demographics and purchasing behavior
+• Analyze customer demographics and purchasing behavior
 
-Visualize insights using bar charts, line plots, and heatmaps
+• Visualize insights using bar charts, line plots, and heatmaps
 
-Provide actionable business recommendations
+• Provide actionable business recommendations
 
 
 **Technologies Used**
 
-Python (Pandas, NumPy, Matplotlib, Seaborn)
+• Python (Pandas, NumPy, Matplotlib, Seaborn)
 
-Google Colab for analysis
+• Google Colab for analysis
 
-Data Visualization with Seaborn & Matplotlib
+• Data Visualization with Seaborn & Matplotlib
 
 
 **Dataset Details**
@@ -57,15 +57,15 @@ Size: Large dataset with multiple records
 
 **Data Visualization**
 
-Time Series Analysis: Identifies sales trends over time.
+1. Time Series Analysis: Identifies sales trends over time.
 
-Bar Charts: Compares sales by gender.
+2. Bar Charts: Compares sales by gender.
 
-Histograms: Displays customer age distribution.
+3. Histograms: Displays customer age distribution.
 
-Top Products Analysis: Highlights best-performing product categories.
+4. Top Products Analysis: Highlights best-performing product categories.
 
-Correlation Heatmap: Shows relationships between numerical variables.
+5. Correlation Heatmap: Shows relationships between numerical variables.
 
 
 
