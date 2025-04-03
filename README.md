@@ -1,4 +1,4 @@
-**Retail Sales Exploratory Data Analysis (EDA)**
+<h1>Retail Sales Exploratory Data Analysis (EDA)</h1>
 
 **Project Overview**
 
